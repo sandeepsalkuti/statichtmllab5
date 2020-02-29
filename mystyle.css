@@ -1,0 +1,63 @@
+#HeaderSection .navbar
+{
+    background: black;
+    border-bottom: #FFF 03px solid;
+
+}
+#HeaderSection .navbar a
+{color : #FFF;
+}
+#ShowCase
+{
+    margin-top:85px;
+    background:url(home.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height:400px;
+    color : black;
+}
+#MainSection a{
+    color:#2d3436;
+}
+#MainSection a:hover
+{
+    color: #00b894;
+}
+#SideBar p{
+    background:#2d3436;
+    color:#FFF;
+    padding:08px;
+}
+.fa-facebook {
+        background: #3B5998;
+        color: white;
+      }
+      
+      .fa-twitter {
+        background: #55ACEE;
+        color: white;
+      }
+      
+      .fa-google {
+        background: #dd4b39;
+        color: white;
+      }
+      .fa-youtube {
+        background: #bb0000;
+        color: white;
+      }
+      
+.fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
+  #Footer img{
+    width:110px;
+    height:105px;
+    margin-top: -110px;
+  }
+  #Recentposts img{
+    width:80px;
+    height:80px;
+    margin-top:03px;
+  }
